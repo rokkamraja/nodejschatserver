@@ -247,3 +247,12 @@ function startServer()
 
 
 exports.start = startServer;
+// No need to export the below functions but for unit testing exposing them
+exports.wordFilter = wordFilter;
+exports.listUserDetails = listUserDetails;
+exports.writeTextToSocket = writeTextToSocket;
+exports.writeToSocket = writeToSocket;
+exports.getState = getState;
+exports.serverCallBack = serverCallBack;
+exports.prettyCurrentTime = prettyCurrentTime;
+exports.listenerObject = listenerObject;
