@@ -16,7 +16,7 @@ This is a chat server created using Node.js.
 2.) node IRCMain.js
 
 Clients 
-1.) telnet <ip address of server> 10001
+1.) telnet (ip address of server) 10001
 
 :: FEATURES ::
 1) TCP server listening to port 10001
