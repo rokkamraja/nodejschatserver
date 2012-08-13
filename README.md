@@ -44,7 +44,7 @@ Clients
 
 7) Support for custom commands for Clients.
 
-      Currently supports only 3 commands
+      Currently supports only 4 commands
 
         about
 
