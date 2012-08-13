@@ -9,6 +9,7 @@ This is a chat server created using Node.js.
 4. and in source do - npm link winston
 5. install redis client - npm install -g redis 
 6. In the source directory do - npm link redis 
+7. Finally, install nodeunit - npm install -g nodeunit
 
 :: USAGE ::
 1.) cd src
